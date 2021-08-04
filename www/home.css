@@ -1,0 +1,17 @@
+.bloque {
+   width: 128px;
+   float: left;
+   margin-right: 12px;
+   cursor: pointer;
+}
+.icono {
+   width: 128px;
+   height: 128px;
+   cursor: pointer;
+}
+.titulo {
+   text-align: center;
+}
+.oculto {
+   display: none;
+}
